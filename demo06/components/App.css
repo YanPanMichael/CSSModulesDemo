@@ -1,0 +1,7 @@
+@value colors: "./colors.css";
+@value blue, red, green, custermize from colors;
+
+.title {
+  color: red;
+  background-color: custermize;
+}
